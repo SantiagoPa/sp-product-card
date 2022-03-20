@@ -7,13 +7,12 @@ paquete de pruebas de despliegue en npm
 ## Ejemplos
 
 ```
-import { ProductCard, 
-         ProductImage, 
-         ProductTitle, 
+import { ProductCard,
+         ProductImage,
+         ProductTitle,
          ProductButtons } from 'sp-product-card';
 
 ```
-
 
 ```
     <ProductCard
